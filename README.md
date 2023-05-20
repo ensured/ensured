@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ensured
 - 👀 I’m interested in Python/Javascript
-- 🌱 I’m currently learning javascript/typescript
+- 🌱 I’m currently learning Javascript/Typescript
 
 - 📫 How to reach me - https://twitter.com/builder420_
 
