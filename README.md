@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python/Javascript
 - 🌱 I’m currently learning Javascript/Typescript
 
-- 📫 How to reach me - https://twitter.com/builder420_
+- 📫 How to reach me - https://twitter.com/cardanokid
 
 <!---
 ensured/ensured is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
