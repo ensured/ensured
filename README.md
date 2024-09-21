@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ensured
-- 👀 I’m interested in Python/Javascript
+- 👀 I’m interested in Cardano/Python/Javascript
 - 🌱 I’m currently learning Javascript/Typescript
 
 - 📫 How to reach me - https://twitter.com/cardanokid
