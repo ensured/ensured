@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ensured
+- 👋 Hi, I’m B
 - 👀 I’m interested in Cardano/Python/Javascript
 - 🌱 I’m currently learning Javascript/Typescript
 
