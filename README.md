@@ -12,7 +12,7 @@
 - **Blockchain:** Cardano ⧉
 
 ## Connect with Me
-- 🐦 [Twitter](https://twitter.com/fam_cardano)
+- 🐦 [X](https://x.com/fam_cardano)
 - 🌐 [Website](https://www.cardanodegen.shop/nft-minter)
 - 🎮 [Discord](https://discord.com/users/cardanokid)
 
