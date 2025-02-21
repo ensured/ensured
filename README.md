@@ -12,8 +12,8 @@
 - **Blockchain:** Cardano ⧉
 
 ## Connect with Me
-- [![Platform](https://img.shields.io/badge/X-Platform-blue?style=flat&logo=x&logoColor=white)](https://x.com/fam_cardano)
-- [![Website](https://img.shields.io/badge/Website-Visit%20Us-blue?style=flat&logo=globe&logoColor=white)](https://www.cardanotools.xyz)
+- [![X Profile](https://img.shields.io/badge/X%20Profile-blue?style=flat&logo=x&logoColor=white)](https://x.com/fam_cardano)
+- [![Website](https://img.shields.io/badge/Website-Visit%20Us-7289DA?style=flat&logo=globe&logoColor=white)](https://www.cardanotools.xyz)
 - [![DM Me](https://img.shields.io/badge/DM%20Me-Discord-7289DA?style=flat&logo=discord&logoColor=white)]([https://discord.com/users/YOUR_DISCORD_ID](https://discord.com/users/cardanokid))
 
 ## Projects I'm Proud Of
