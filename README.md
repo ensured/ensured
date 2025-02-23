@@ -13,7 +13,7 @@
 
 ## Connect with Me
 - [![X Profile](https://img.shields.io/badge/X%20Profile-blue?style=flat&logo=x&logoColor=white)](https://x.com/fam_cardano)
-- [![Website](https://img.shields.io/badge/Website-Visit%20Us-7289DA?style=flat&logo=globe&logoColor=white)](https://www.cardanotools.xyz)
+- [![Website](https://img.shields.io/badge/Website-Visit-7289DA?style=flat&logo=globe&logoColor=white)](https://www.cardanotools.xyz)
 - [![DM Me](https://img.shields.io/badge/DM%20Me-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/cardanokid)
 
 ## Projects I'm Proud Of
