@@ -44,6 +44,11 @@ const developer = {
 
 ## 💎 Featured Projects
 
+## 🦁 [Truth Whisperer](https://truth-whisperer.vercel.app/)
+> **Full-Stack Shadow Work: AI Meets Jungian Depth for Real Self-Growth.**
+
+
+
 ### 🌐 [cardanotools.xyz](https://github.com/ensured/cardanotools.xyz)
 > **Full-stack Web2/Web3 DApp** with hybrid authentication
 
