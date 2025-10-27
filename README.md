@@ -44,7 +44,7 @@ const developer = {
 
 ## 💎 Featured Projects
 
-## 🦁 [Truth Whisperer](https://truth-whisperer.vercel.app/)
+## 🦁 [Depth Oracle](https://depth-oracle.vercel.app/)
 > **Full-Stack Shadow Work: AI Meets Jungian Depth for Real Self-Growth.**
 
 
